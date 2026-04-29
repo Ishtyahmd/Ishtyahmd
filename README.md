@@ -1,16 +1,34 @@
-## Hi there 👋
+```bash
+$ whoami
+Ishtyaq Ahmed
 
-<!--
-**Ishtyahmd/Ishtyahmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ cat about.txt
+I make games & study Security.
 
-Here are some ideas to get you started:
+$ pwd
+ @ Not found yet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ ls skills/
+Python && c/c++
+
+$ cat learning.txt
+Deepening my knowledge in data communication & networking.
+
+$ fortune
+Video games
+```
+## Stats
+
+![](https://github-readme-stats.shion.dev/api?username=Ishtyahmd&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)<br/>
+
+## Contribution
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishtyahmd&radius=16&theme=gotham&area=true&order=5&hide_border=true&hide_title=true" height="280" alt="activity-graph graph"  />
+</div>
+
+## Stack proficiency
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ishtyahmd&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+```bash
+$ echo "Adios!"
+```
