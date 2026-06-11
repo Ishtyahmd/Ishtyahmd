@@ -12,7 +12,8 @@ $ ls skills/
 Python && c/c++
 
 $ cat learning.txt
-Deepening my knowledge in data communication & networking.
+Reworking my skill on LAMP stack devolapment.
+Deepening my knowledge in data communication & Networking.
 
 $ fortune
 Video games
