@@ -9,13 +9,16 @@ $ pwd
  @ Not found yet
 
 $ ls skills/
-Python && c/c++
+Python C# C/C++
 
 $ cat learning.txt
-Reworking my skill on LAMP stack devolapment.
-Deepening my knowledge in data communication & Networking.
+Reworking my skill on AMP stack.
+Deepening my knowledge in data communication, Networking & Network Security Infrastructure.
+Godot.
 
 $ fortune
 Video games
+HV
+Digital Piracy & cracking
 ```
 
