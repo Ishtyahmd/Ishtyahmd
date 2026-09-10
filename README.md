@@ -15,10 +15,11 @@ $ cat learning.txt
 Reworking my skill on AMP stack.
 Deepening my knowledge in data communication, Networking & Network Security Infrastructure.
 Godot.
+Linux.
 
 $ fortune
-Video games
-HV
-Digital Piracy & cracking
+Video games.
+HV.
+Digital Piracy & cracking.
 ```
 
